@@ -1,13 +1,19 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
+
 <title> What is your favorite color? </title>
+
 </head>
 
 <body>
+
 <font size="4" color="red"> RED? </font>
 <font size="4" color="blue"> BLUE? </font>
 <font size="4" color="yellow> YELLOW? </font>
+<font size="4" color="green"> GREEN? </font>
 
 <p> Well, I just want to know... </p>
 
